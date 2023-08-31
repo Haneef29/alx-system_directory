@@ -1,0 +1,3 @@
+#!/bin/bash
+chown -h Haneef29:staff _hello
+
